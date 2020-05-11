@@ -15,8 +15,10 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 
 ## 2 The Database
 Proven News Database:
-![](Images/Proven_fake_news_sample.PNG)
 
+
+![](Images/Proven_fake_news_sample.PNG)
+<p align="center"><i>Figure 1. Proven fake news sample</i></p>
 
 Unproven News Database:
 
