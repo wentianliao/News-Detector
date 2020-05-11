@@ -1,5 +1,5 @@
 # Data incubator Project: News-Detector
- separate true news from fake news
+## separate true news from fake news
 
 
 Are ready to pitch your project by explaining your analysis and what you hope to do. We are especially impressed with strong existing work and analysis.
