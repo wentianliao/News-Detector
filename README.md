@@ -16,15 +16,27 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 ## 2 The Database
 Proven News Database:
 
-
 ![](Images/Proven_fake_news_sample.PNG)
 <p align="center"><i>Figure 1. Proven fake news sample</i></p>
+(https://github.com/wentianliao/News-Detector/tree/master/Proven%20data)
 
 Unproven News Database:
 
-In the COVID-19 pandemic, false reports dominated at the early response. If we could select the true and useful suggestion from the news at the early response, we may be able to open the economy earlier and save more lives. Fortunately, with the help of data science, human intelligence can forcast the validity of news. By analyzing proven news, we could conclude features of fake news and true news. Through the comparsion of unproven news with proven news, we are be albe to forcast the validty of any news. 
+1.
+
+2.
+
+
+3.
+
 
 ## 3 The Model
+1.
+
+2.
+
+3.
+
 
 ## 4 Initial Analysis
 
