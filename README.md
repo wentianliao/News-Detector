@@ -1,5 +1,26 @@
+![](Images/True_False_Thinkstock.jpg_resized_460_.jpeg)
 # Data incubator Project: News-Detector
-## separate true news from fake news
+## Talbe of conents
+1. [Motivation](#1-motivation)
+2. [The Database](#2-the-database)
+3. [The Model](#3-the-model)
+	* [3.1 Input Layer](#31-input-layer)
+	* [3.2 Convolutional Layers](#32-convolutional-layers)  
+	* [3.3 Dense Layers](#33-dense-layers)
+4. [Initial Analysis](#4-Initial-Analysis)
+5. [To be added](#5-to-be-added)
+
+## 1 Motivation
+
+## 2 The Database
+Proven News Database
+Unproven News Database
+
+## 3 The Model
+
+## 4 Initial Analysis
+
+## 5. To be added
 
 
 Are ready to pitch your project by explaining your analysis and what you hope to do. We are especially impressed with strong existing work and analysis.
