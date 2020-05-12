@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/wentianliao/News-Detector/tree/master/Images/Proven_fake_news_sample.png" width="500" align="middle"/>
+<img src="https://github.com/wentianliao/News-Detector/tree/master/Images/Proven_fake_news_sample.PNG" width="500" align="middle"/>
 
 
 
