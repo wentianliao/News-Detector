@@ -1,4 +1,5 @@
 ![](Images/True_False_Thinkstock.jpg_resized_460_.jpeg)
+<img src="https://github.com/wentianliao/News-Dectector/Images/True_False_Thinkstock.jpg_resized_460_.jpeg" width="500" align="middle"/>
 # Data incubator Project: News-Detector
 ## Talbe of conents
 1. [Motivation](#1-motivation)
