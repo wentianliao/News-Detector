@@ -3,39 +3,34 @@
 ## Talbe of conents
 1. [Motivation](#1-motivation)
 2. [The Database](#2-the-database)
-3. [The Model](#3-the-model)
-	* [3.1 Input Layer](#31-input-layer)
-	* [3.2 Convolutional Layers](#32-convolutional-layers)  
-	* [3.3 Dense Layers](#33-dense-layers)
-4. [Initial Analysis](#4-Initial-Analysis)
-5. [To be added](#5-to-be-added)
+3. [Initial Analysis](#3-Initial-Analysis)
+        * [3.1 Sentence Strucutre](#31-input-layer)
+	* [3.2 Eye tracking ](#32-convolutional-layers)  
+	* [3.3 News Spreading](#33-dense-layers)
+3. [To be added](#5-to-be-added)
 
 ## 1 Motivation
 In the COVID-19 pandemic, false reports dominated at the early response. If we could select the true and useful suggestion from the news at the early response, we may be able to open the economy earlier and save more lives. Fortunately, with the help of data science, human intelligence can forcast the validity of news. By analyzing proven news, we could conclude features of fake news and true news. Through the comparsion of unproven news with proven news, we are be albe to forcast the validty of any news. 
 
 ## 2 The Database
-Proven News Database:
+News in Text
+![](Images/Proven_fake_news_sample.PNG)
+<p align="center"><i>Figure 1. Proven fake news in text</i></p>
+(https://github.com/wentianliao/News-Detector/tree/master/Proven%20data)
+
+News in Videos 
 
 ![](Images/Proven_fake_news_sample.PNG)
 <p align="center"><i>Figure 1. Proven fake news sample</i></p>
 (https://github.com/wentianliao/News-Detector/tree/master/Proven%20data)
 
-Unproven News Database:
 
-1.
+## 3 Initial Analysis
+1. Sentence Structure anaysis
 
-2.
+2. Eye tracking  
 
-
-3.
-
-
-## 3 The Model
-1.
-
-2.
-
-3.
+3. News Spreading
 
 
 ## 4 Initial Analysis
