@@ -4,9 +4,9 @@
 1. [Motivation](#1-motivation)
 2. [The Database](#2-the-database)
 3. [Initial Analysis](#3-Initial-Analysis)
-	* [3.1 Sentence Structure ](#32-convolutional-layers)  
-	* [3.2 Eye tracking ](#32-convolutional-layers)  
-	* [3.3 News Spreading](#33-dense-layers)
+	* [3.1 Sentence Structure ] 
+	* [3.2 Eye tracking ]
+	* [3.3 News Spreading]
 3. [To be added](#5-to-be-added)
 
 ## 1 Motivation
@@ -32,8 +32,6 @@ News in Videos
 
 3. News Spreading
 
-
-## 4 Initial Analysis
 
 ## 5. To be added
 
