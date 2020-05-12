@@ -4,9 +4,9 @@
 1. [Motivation](#1-motivation)
 2. [The Database](#2-the-database)
 3. [Initial Analysis](#3-Initial-Analysis)
-	* [3.1 Sentence Structure ] 
-	* [3.2 Eye tracking ]
-	* [3.3 News Spreading]
+	* 3.1 Sentence Structure 
+	* 3.2 Eye tracking 
+	* 3.3 News Spreading
 3. [To be added](#5-to-be-added)
 
 ## 1 Motivation
@@ -14,6 +14,7 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 
 ## 2 The Database
 News in Text
+
 ![](Images/Proven_fake_news_sample.PNG)
 <p align="center"><i>Figure 1. Proven fake news in text</i></p>
 (https://github.com/wentianliao/News-Detector/tree/master/Proven%20data)
