@@ -4,7 +4,7 @@
 1. [Motivation](#1-motivation)
 2. [The Database](#2-the-database)
 3. [Initial Analysis](#3-Initial-Analysis)
-        * [3.1 Sentence Strucutre](#31-input-layer)
+	* [3.1 Sentence Structure ](#32-convolutional-layers)  
 	* [3.2 Eye tracking ](#32-convolutional-layers)  
 	* [3.3 News Spreading](#33-dense-layers)
 3. [To be added](#5-to-be-added)
