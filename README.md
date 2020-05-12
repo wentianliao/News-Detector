@@ -1,6 +1,6 @@
 
 
-<img src="Images/True_False_Thinkstock.jpg" width="500" align="middle"/>
+<img src="Images/True_False_Thinkstock.jpg" width="500" align="middle">
 
 
 # Data incubator Project: News-Detector
