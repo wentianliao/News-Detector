@@ -9,7 +9,7 @@
 	* 2.2 News in Video
 3. [Initial Analysis](#3-Initial-Analysis)
 	* 3.1 Sentence Structure 
-	* 3.2 Eye tracking 
+	* 3.2 Micro Expression
 	* 3.3 News Spreading
 3. [To be added](#5-to-be-added)
 
@@ -19,7 +19,7 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 ## 2 The Database
 ### 2.1 News in Text
 
-![](Images/Proven_fake_news_sample.PNG)
+![](Images/Fake news in text sample.PNG)
 <p align="center"><i>Figure 1. Proven fake news in text</i></p>
 (https://github.com/wentianliao/News-Detector/tree/master/Proven%20data)
 
@@ -34,7 +34,8 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 ## 3 Initial Analysis
 ### 3.1. Sentence Structure anaysis
 
-### 3.2. Eye tracking  
+### 3.2. Micro Expression
+Eye tracking
 
 ### 3.3 News Spreading
 
