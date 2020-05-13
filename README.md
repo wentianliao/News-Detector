@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Images/true-false-fake-real-signs-ss-1920_mqs0yk.jpg" width="850"  align="middle"/>
+<img src="Images/true-false-fake-real-signs-ss-1920_mqs0yk (1).gif" width="850"  align="middle"/>
 
 # Data incubator Project: News Detector
 ## Talbe of conents
@@ -33,10 +33,6 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 <img src="Images/Fake news in video sample.jpg" width="400"  align="middle"/>	
 
 <p align="center"><i>Figure 1. Proven fake news in video </i></p>
-<p align="center">
-                            (https://github.com/wentianliao/News-Detector/tree/master/Proven%20data)
-
-### News in Video
 
 ## 3 Initial Analysis
 ### 3.1. Sentence Structure anaysis
