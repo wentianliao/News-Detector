@@ -24,7 +24,7 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 	
 <p align="center">
 <img src="Images/Proven_fake_news_sample.PNG" width="400"  align="middle"/>	
-<p align="center"><i>Figure 1. Data of Proven fake news in text</i></p>	
+<p align="center"><i>Figure 2. Data of Proven fake news in text</i></p>	
 <p align="center">
                             (https://github.com/wentianliao/News-Detector/tree/master/Proven%20data)
 
@@ -32,7 +32,7 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 <p align="center">
 <img src="Images/Fake news in video sample.jpg" width="400"  align="middle"/>	
 
-<p align="center"><i>Figure 1. Proven fake news in video </i></p>
+<p align="center"><i>Figure 3. Proven fake news in video </i></p>
 
 ## 3 Initial Analysis
 ### 3.1. Sentence Structure anaysis
