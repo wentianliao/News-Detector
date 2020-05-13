@@ -1,5 +1,3 @@
-	
-	
 <p align="center">
 <img width="460" height="300" src="https://github.com/wentianliao/News-Detector/tree/master/Images/True_False_Thinkstock.jpg_resized_460_.jpeg">
 </p>
