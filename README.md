@@ -1,7 +1,7 @@
 <p align="center">
-<img src="Images/Ttrue-false-fake-real-signs-ss-1920_mqs0yk.jpg" width="650" align="middle"/>
+<img src="Images/true-false-fake-real-signs-ss-1920_mqs0yk.jpg" width="850"  align="middle"/>
 
-# Data incubator Project: News-Detector
+# Data incubator Project: News Detector
 ## Talbe of conents
 1. [Motivation](#1-motivation)
 2. [The Database](#2-the-database)
