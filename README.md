@@ -1,8 +1,6 @@
 <p align="center">
-<img src="https://github.com/wentianliao/News-Detector/tree/master/Images/netarch.png" width="650" align="middle"/>
+<img src="Images/True_False_Thinkstock.jpg_resized_460_.jpeg" width="650" align="middle"/>
 
-https://github.com/wentianliao/News-Detector/tree/master/Images/Proven_fake_news_sample.PNG	
-	
 # Data incubator Project: News-Detector
 ## Talbe of conents
 1. [Motivation](#1-motivation)
