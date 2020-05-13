@@ -5,6 +5,8 @@
 ## Talbe of conents
 1. [Motivation](#1-motivation)
 2. [The Database](#2-the-database)
+	* 2.1 News in Text
+	* 2.2 News in Video
 3. [Initial Analysis](#3-Initial-Analysis)
 	* 3.1 Sentence Structure 
 	* 3.2 Eye tracking 
@@ -15,7 +17,7 @@
 In the COVID-19 pandemic, false reports dominated at the early response. If we could select the true and useful suggestion from the news at the early response, we may be able to open the economy earlier and save more lives. Fortunately, with the help of data science, human intelligence can forcast the validity of news. By analyzing proven news, we could conclude features of fake news and true news. Through the comparsion of unproven news with proven news, we are be albe to forcast the validty of any news. 
 
 ## 2 The Database
-News in Text
+### News in Text
 
 ![](Images/Proven_fake_news_sample.PNG)
 <p align="center"><i>Figure 1. Proven fake news in text</i></p>
