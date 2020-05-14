@@ -57,7 +57,7 @@ Around 25000 Fakes news with title, txt, subject and date are analyzed.
 #### Current results:
 
 <p align="center">
-<img src="Images/Threshold.gif" width="400"  align="middle"/>	
+<img src="Images/Threshold.gif" width="200"  align="middle"/>	
 <p align="center"><i>Figure 5. Thresholded Image</i></p>	
 
 <p align="center">
