@@ -47,7 +47,7 @@ Around 25000 Fakes news with title, txt, subject and date are analyzed.
 （https://github.com/wentianliao/News-Detector/tree/master/Results/Word_frequency_in_fake_data.csv）
 	
 #### In progress:
-* More data pre-processsing needed to elminate exclamation marks.
+* More data pre-processsing needed to elminate  punctuation.
 
 * See if there is any words which are both popular in Fake news and True news.
 
