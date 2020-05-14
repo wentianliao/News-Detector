@@ -64,6 +64,9 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 <p align="center">
 (https://stackoverflow.com/questions/21946606/word-count-for-all-the-words-appearing-in-a-column-in-sql-server-2008)
 
+2. The code to remove background 
+<p align="center">
+http://www.petercollingridge.co.uk/blog/removing-background-avi-using-imagej/ 
 
 
 
