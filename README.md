@@ -53,7 +53,7 @@ Around 25000 Fakes news with title, txt, subject and date are analyzed.
 
 * Find the words which is only popuar in fake enws.
 
-### 3.2. Micro Expression
+### 3.2. Micro Expression analysis
 #### Current results:
 
 <p align="center">
@@ -70,7 +70,7 @@ Around 25000 Fakes news with title, txt, subject and date are analyzed.
 
 
 
-### 3.3 News Spreading
+### 3.3 News Spreading analysis
 
 
 ## 4 Reference
