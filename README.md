@@ -26,8 +26,8 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 <img src="Images/Proven_fake_news_sample.PNG" width="400"  align="middle"/>	
 <p align="center"><i>Figure 2. Data of Proven fake news in text</i></p>	
 <p align="center">
-(https://github.com/wentianliao/News-Detector/tree/master/Proven%20data)
-
+(https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+Around 25000 Fakes news with title, txt, subject and date.
 ### 2.2 News in Videos 
 <p align="center">
 <img src="Images/Fake news in video sample.jpg" width="400"  align="middle"/>	
