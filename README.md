@@ -58,11 +58,15 @@ Around 25000 Fakes news with title, txt, subject and date are analyzed.
 
 <p align="center">
 <img src="Images/Threshold.gif" width="200"  align="middle"/>	
-<p align="center"><i>Figure 5. Thresholded Image</i></p>	
+<p align="center"><i>Figure 5. Actual Thresholded Image</i></p>	
+
+<p align="center">
+<img src="Images/rect835.png" width="200"  align="middle"/>	
+<p align="center"><i>Figure 6. Ideal Thresholded Image</i></p>	
 
 <p align="center">
 <img src="Images/Back_ground_remover_results.png" width="400"  align="middle"/>	
-<p align="center"><i>Figure 6. Removed background makes eye blink more obvious</i></p>		
+<p align="center"><i>Figure 7. Removed background makes eye blink more obvious</i></p>		
 
 
 
