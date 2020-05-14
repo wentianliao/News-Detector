@@ -45,6 +45,7 @@ Around 25000 Fakes news with title, txt, subject and date are analyzed.
 <p align="center"><i>Figure 4. Word_frequency_in_fake_data_sample</i></p>	
 <p align="center">
 （https://github.com/wentianliao/News-Detector/tree/master/Results/Word_frequency_in_fake_data.csv）
+	
 #### In progress:
 * More data pre-processsing needed to elminate exclamation marks.
 
@@ -54,9 +55,14 @@ Around 25000 Fakes news with title, txt, subject and date are analyzed.
 
 ### 3.2. Micro Expression
 #### Current results:
+
+<p align="center">
+<img src="Images/Threshold.gif" width="400"  align="middle"/>	
+<p align="center"><i>Figure 5. Thresholded Image</i></p>	
+
 <p align="center">
 <img src="Images/Back_ground_remover_results.png" width="400"  align="middle"/>	
-<p align="center"><i>Figure 5. Removed background makes eye blink more obvious</i></p>		
+<p align="center"><i>Figure 6. Removed background makes eye blink more obvious</i></p>		
 
 
 
