@@ -11,7 +11,7 @@
 	* 3.1 Sentence Structure 
 	* 3.2 Micro Expression
 	* 3.3 News Spreading
-3. [To be added](#5-to-be-added)
+4. [Reference](#4-Reference)
 
 ## 1 Motivation
 In the COVID-19 pandemic, false reports dominated at the early response. If we could select the true and useful suggestion from the news at the early response, we may be able to open the economy earlier and save more lives. Fortunately, with the help of data science, human intelligence can forcast the validity of news. By analyzing proven news, we could conclude features of fake news and true news. Through the comparsion of unproven news with proven news, we are be albe to forcast the validty of any news. 
@@ -26,7 +26,7 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 <img src="Images/Proven_fake_news_sample.PNG" width="400"  align="middle"/>	
 <p align="center"><i>Figure 2. Data of Proven fake news in text</i></p>	
 <p align="center">
-                            (https://github.com/wentianliao/News-Detector/tree/master/Proven%20data)
+(https://github.com/wentianliao/News-Detector/tree/master/Proven%20data)
 
 ### 2.2 News in Videos 
 <p align="center">
@@ -36,14 +36,30 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 
 ## 3 Initial Analysis
 ### 3.1. Sentence Structure anaysis
+<p align="center">
+<img src="Images/Word_frequency_in_fake_data_sample.PNG" width="150"  align="middle"/>	
+<p align="center"><i>Figure 4. Word_frequency_in_fake_data_sample</i></p>		
+
+
+
+More data pre-processsing needed to elminate exclamation marks.
+
+See if there is any words which are both popular in Fake news and True news.
+
+Find the words which is only popuar in fake enws.
 
 ### 3.2. Micro Expression
-Eye tracking
+
 
 ### 3.3 News Spreading
 
 
-## 5. To be added
+## 4 Reference
+The code to count word frequency comes from Will P.
+<p align="center">
+(https://stackoverflow.com/questions/21946606/word-count-for-all-the-words-appearing-in-a-column-in-sql-server-2008)
+
+
 
 
 Are ready to pitch your project by explaining your analysis and what you hope to do. We are especially impressed with strong existing work and analysis.
