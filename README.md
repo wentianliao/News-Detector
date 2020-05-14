@@ -27,6 +27,7 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 <p align="center"><i>Figure 2. Data of Proven fake news in text</i></p>	
 <p align="center">
 (https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset)
+	
 Around 25000 Fakes news with title, txt, subject and date are analyzed.
 
 
