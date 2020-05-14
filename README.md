@@ -49,10 +49,10 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 * Find the words which is only popuar in fake enws.
 
 ### 3.2. Micro Expression
-#### Current results
+#### Current results:
 
 
-#### In progress
+
 ### 3.3 News Spreading
 
 
