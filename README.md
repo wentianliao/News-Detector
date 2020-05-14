@@ -55,7 +55,7 @@ Find the words which is only popuar in fake enws.
 
 
 ## 4 Reference
-The code to count word frequency comes from Will P.
+1. The code to count word frequency comes from Will P.
 <p align="center">
 (https://stackoverflow.com/questions/21946606/word-count-for-all-the-words-appearing-in-a-column-in-sql-server-2008)
 
