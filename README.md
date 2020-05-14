@@ -51,7 +51,7 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 ### 3.2. Micro Expression
 #### Current results:
 <p align="center">
-<img src="Images/Back_ground_remover_results.png" width="150"  align="middle"/>	
+<img src="Images/Back_ground_remover_results.png" width="400"  align="middle"/>	
 <p align="center"><i>Figure 4. Removed background makes eye blink more obvious</i></p>		
 
 
