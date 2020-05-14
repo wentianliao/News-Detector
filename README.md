@@ -42,8 +42,9 @@ Around 25000 Fakes news with title, txt, subject and date are analyzed.
 #### Current results:
 <p align="center">
 <img src="Images/Word_frequency_in_fake_data_sample.PNG" width="150"  align="middle"/>	
-<p align="center"><i>Figure 4. Word_frequency_in_fake_data_sample</i></p>		
-
+<p align="center"><i>Figure 4. Word_frequency_in_fake_data_sample</i></p>	
+<p align="center">
+（https://github.com/wentianliao/News-Detector/tree/master/Results/Word_frequency_in_fake_data.csv）
 #### In progress:
 * More data pre-processsing needed to elminate exclamation marks.
 
