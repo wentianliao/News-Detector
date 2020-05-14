@@ -36,17 +36,17 @@ In the COVID-19 pandemic, false reports dominated at the early response. If we c
 
 ## 3 Initial Analysis
 ### 3.1. Sentence Structure anaysis
-#### Current results
+#### Current results:
 <p align="center">
 <img src="Images/Word_frequency_in_fake_data_sample.PNG" width="150"  align="middle"/>	
 <p align="center"><i>Figure 4. Word_frequency_in_fake_data_sample</i></p>		
 
-#### In progress
-More data pre-processsing needed to elminate exclamation marks.
+#### In progress:
+* More data pre-processsing needed to elminate exclamation marks.
 
-See if there is any words which are both popular in Fake news and True news.
+* See if there is any words which are both popular in Fake news and True news.
 
-Find the words which is only popuar in fake enws.
+* Find the words which is only popuar in fake enws.
 
 ### 3.2. Micro Expression
 #### Current results
